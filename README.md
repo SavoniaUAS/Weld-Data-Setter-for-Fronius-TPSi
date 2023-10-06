@@ -9,3 +9,7 @@ This software can be used to send identifying part information and part serial n
 Notes
 
 To utilize WDS fror Fronius tool there typically has to be certain software options in welding machine and suitable data manager software. For those contact and ask about your Fronius welding machine supplier.
+
+
+Download the software from : https://github.com/SavoniaUAS/Weld-Data-Setter-for-Fronius-TPSi/releases/tag/Main
+
