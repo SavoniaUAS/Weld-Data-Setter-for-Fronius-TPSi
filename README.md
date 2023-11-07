@@ -8,7 +8,7 @@ Steps to run the software: (Windows)
 1. Download compiled software package from https://github.com/SavoniaUAS/Weld-Data-Setter-for-Fronius-TPSi/releases/download/Release/WeldDataSetter.zip
 2. Unzip a content of the software package to a folder.
 3. Open the folder and run WeldDataSetter.exe application. If the application does not run, try to install .Net Core 3.1 Runtime package.
-4. Set IP address and port (Default 4714) of welding machine to server settings.
+4. Set a IP address and a port (Default 4714) of the welding machine to server settings.
 5. Now a part information of welding machine can be updated by filling a item number, a serial number and clicking "Send message" button.
 
    
