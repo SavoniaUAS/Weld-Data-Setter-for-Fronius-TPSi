@@ -9,6 +9,6 @@ Steps to run the software: (Windows)
 2. Unzip a content of the software package to a folder.
 3. Open the folder and run WeldDataSetter.exe application. If the application does not run, try to install .Net Core 3.1 Runtime package.
 4. Set welding machine IP address and port (Default 4714) to server settings.
-5. Now a part information of welding machine can be updated by filling item number, serial number and clicking "Send message" button.
+5. Now a part information of welding machine can be updated by filling a item number, a serial number and clicking "Send message" button.
 
    
