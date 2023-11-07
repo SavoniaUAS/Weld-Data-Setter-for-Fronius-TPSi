@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace WeldCubeClient
+namespace WeldDataSetter
 {
     public class Prefs
     {

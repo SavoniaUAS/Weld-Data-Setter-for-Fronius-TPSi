@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace WeldCubeClient
+namespace WeldDataSetter
 {
     public static class LogHelper
     {
